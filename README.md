@@ -1,6 +1,5 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gavin Waako</h1>
 
-<h1 align="center"><a href="#"><img width="200" height="200" src="[[[](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)"/></a></h1>
 
 ## 👨🏿 About Me
 
