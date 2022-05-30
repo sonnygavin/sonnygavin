@@ -1,9 +1,9 @@
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gavin Waako</h1>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gavin Waako, a **Full-Stack (MERN) Developer** based in Cape Town, ZA.</h1>
 
 
 ## 👨🏿 About Me
 
-I'm a **Full-Stack Web Developer** with the following skills:
+I'm proficient in the following skills:
 
 - **Front-End Web Development:** JavaScript, React.js, Redux, jQuery, SCSS, Bootstrap, Materialize CSS, HTML, DOM Manipulation. 
 
