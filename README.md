@@ -1,4 +1,4 @@
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gavin Waako, a **Full-Stack (MERN) Developer** based in Cape Town, ZA.</h1>
+### <h1 align="center">Hi 👋, I'm Gavin Waako, a **Full-Stack (MERN) Developer** based in Cape Town, ZA.</h1>
 
 
 ## 👨🏿 About Me
