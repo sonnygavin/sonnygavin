@@ -1,76 +1,50 @@
-### <h1 align="center">Hi 👋, I'm Gavin Waako, a **Full-Stack (MERN) Developer** based in Cape Town, ZA.</h1>
+# Welcome to My GitHub Profile!
 
+## Hi there! 👋
 
-## 👨🏿 About Me
+I'm a passionate developer with expertise in a wide range of modern technologies. Here's a quick overview of my technical skills:
 
-I'm proficient in the following skills:
+### **Frontend Development**
+- **JavaScript**
+- **TypeScript**
+- **React.js**
+- **React Native**
+- **Next.js**
+- **Tailwind CSS**
 
-- **Front-End Web Development:** JavaScript, React.js, Redux, jQuery, SCSS, Bootstrap, Materialize CSS, HTML, DOM Manipulation. 
+### **Backend Development**
+- **Node.js**
+- **RESTful APIs**
 
-- **Backend Web Development:** MongoDB, Express.js, Node.js, SQL, RESTful APIs.
+### **State Management**
+- **Redux Toolkit**
 
-- **Tools:** NPM, Firebase, Postman, Jira, Chrome DevTools, Bash Command Line and Git/GitHub & Version Control.
+### **Databases**
+- **MongoDB**
+- **PostgreSQL**
+- **Firebase**
 
-**UI/UX design** experience is a plus as I've worked with: Adobe XD, Photoshop, Illustrator, Balsamiq, Figma and Canva to create professional front-end website wireframes, testing prototypes and mock-ups.
+### **Cloud Services**
+- **Amazon Web Services (AWS)**
 
-Feel free to take a look at some of my work or get in touch! 
+### **Containerization and DevOps**
+- **Docker**
 
-- 📧 How to reach me **emails@SonnyGavin.com**
+### **Version Control**
+- **Git**
 
-- 🧠 Currently learning **Python**
+## Projects
 
-- My website - **www.SonnyGavin.com**
+I love working on innovative projects and constantly challenging myself to learn more. Check out some of my repositories to see what I've been working on!
 
-## 👩‍💻 Languages and Tools:
+## Get in Touch
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+Feel free to reach out if you have any questions, suggestions, or just want to connect. You can find me on:
 
+- [LinkedIn](https://www.linkedin.com/in/gavin-sonny/) 
 
-<br/>
+Let's build something amazing together!
 
+---
 
-## 📊 My Github Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnygavin)](https://github.com/anuraghazra/github-readme-stats)
-
-## ✨ Top Languages Card
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnygavin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br/>
-<br/>
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sonnygavin&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<br/>
-<br/>
-
-## Connect with me:
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sonnygavin">
-</a>
-
-
-# buy-me-a-coffee
-
-Liked some of my work? Buy me a coffee
-
-<a href="#" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+Thank you for visiting my profile! 🚀
